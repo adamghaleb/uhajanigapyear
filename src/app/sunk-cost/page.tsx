@@ -349,7 +349,7 @@ export default function SunkCostPage() {
                 <p className="text-lg leading-relaxed text-text md:text-xl">
                   The people who take the biggest risks rarely poll the room
                   first. The room is always wrong about outliers &mdash; and
-                  Jonny, you&rsquo;re an outlier whether you like it or not.
+                  Ajani, you&rsquo;re an outlier whether you like it or not.
                 </p>
               </div>
             </ScrollReveal>
@@ -419,7 +419,7 @@ export default function SunkCostPage() {
 
             <ScrollReveal delay={0.3}>
               <p className="mt-6 text-lg leading-relaxed text-text md:text-xl">
-                It&rsquo;s not dying, Jonny.{" "}
+                It&rsquo;s not dying, Ajani.{" "}
                 <span className="text-accent">It&rsquo;s molting.</span>
               </p>
             </ScrollReveal>

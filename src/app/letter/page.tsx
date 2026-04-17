@@ -40,7 +40,7 @@ export default function LetterPage() {
               Written at 2:47 AM
             </motion.p>
 
-            {/* Opening — "Jonny," */}
+            {/* Opening — "Ajani," */}
             <motion.h1
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
@@ -51,7 +51,7 @@ export default function LetterPage() {
               }}
               className="mb-12 font-display text-5xl tracking-tight text-text sm:text-6xl md:mb-16 md:text-7xl"
             >
-              Jonny,
+              Ajani,
             </motion.h1>
 
             {/* ─── PARAGRAPH GROUP 1: The opening salvo ─── */}
@@ -151,7 +151,7 @@ export default function LetterPage() {
 
             {sectionBreak}
 
-            {/* ─── PARAGRAPH GROUP 4: Seeing something in Jonny ─── */}
+            {/* ─── PARAGRAPH GROUP 4: Seeing something in Ajani ─── */}
             <ScrollReveal>
               <div className="space-y-6 text-lg leading-relaxed text-text-secondary md:text-xl md:leading-relaxed">
                 <p>

@@ -61,7 +61,7 @@ export default function Home() {
           variants={fadeUp}
           className="font-mono text-xs tracking-[0.3em] uppercase text-text-secondary"
         >
-          From Adam, to Jonny
+          From Adam, to Ajani
         </motion.p>
       </motion.div>
 
@@ -78,7 +78,7 @@ export default function Home() {
             variants={fadeUp}
             className="font-display text-6xl leading-[0.88] tracking-tight text-text sm:text-7xl md:text-8xl lg:text-9xl"
           >
-            Jonny
+            Ajani
           </motion.h1>
           <motion.h1
             variants={fadeUp}

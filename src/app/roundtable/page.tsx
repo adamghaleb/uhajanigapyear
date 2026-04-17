@@ -25,7 +25,7 @@ export default function RoundtablePage() {
                   Roundtable
                 </h1>
                 <p className="font-sans text-lg md:text-xl text-text-secondary max-w-xl leading-relaxed">
-                  Three minds. One question. Whether Jonny Quibbuyen should
+                  Three minds. One question. Whether Ajani Quibbuyen should
                   spend his next year finishing a degree or doing something that
                   terrifies him.
                 </p>
@@ -44,7 +44,7 @@ export default function RoundtablePage() {
             {/* The Dialogue */}
 
             <Speaker name="jobs">
-              Let me ask a question that no one around Jonny is asking. Not his
+              Let me ask a question that no one around Ajani is asking. Not his
               parents. Not his friends. Not his advisors. What is this degree
               costing him? Not in tuition. In time. In the version of himself
               he&apos;s not building while he sits in lectures designed for a
@@ -63,7 +63,7 @@ export default function RoundtablePage() {
             </Speaker>
 
             <Speaker name="fadi">
-              Jonny, real talk. You know what I think about when I hear
+              Ajani, real talk. You know what I think about when I hear
               &quot;just one more year&quot;? I think about when I used to open
               FL Studio and spend six hours tweaking a hi-hat pattern that no
               one would ever hear. Not because it mattered. Because I&apos;d
@@ -84,7 +84,7 @@ export default function RoundtablePage() {
 
             <Speaker name="karpathy">
               I want to be precise about what&apos;s happening right now in
-              technology, because I think Jonny might not see the full picture
+              technology, because I think Ajani might not see the full picture
               from inside a university. The tools available today — AI coding
               assistants, autonomous agents, models that can reason through
               multi-step problems — they are not incremental improvements. They
@@ -121,7 +121,7 @@ export default function RoundtablePage() {
               minimum, never finding the global optimum. Too high and it
               oscillates wildly. But there is a critical window where the
               learning rate is just right, and the model makes enormous leaps in
-              capability. Jonny is in that window right now. His twenties. Low
+              capability. Ajani is in that window right now. His twenties. Low
               obligations. High neuroplasticity. Maximum surface area for
               compound growth. Spending that window in a lecture hall is like
               setting the learning rate to zero.
@@ -155,7 +155,7 @@ export default function RoundtablePage() {
               20x in 2026. That is not hyperbole. I am talking about individuals
               who ship entire applications in a weekend that would have taken a
               team of five engineers a quarter to build three years ago. And the
-              gap is accelerating. Every month Jonny spends not building that
+              gap is accelerating. Every month Ajani spends not building that
               muscle is a month the distance grows.
             </Speaker>
 
@@ -172,7 +172,7 @@ export default function RoundtablePage() {
 
             <Speaker name="jobs">
               I want to talk about the asymmetry here, because I think it&apos;s
-              the thing Jonny hasn&apos;t let himself see. If he takes a gap
+              the thing Ajani hasn&apos;t let himself see. If he takes a gap
               year and it doesn&apos;t work out — what happens? He goes back. He
               finishes the degree twelve months later. He has lost nothing
               except the illusion that the timeline mattered. But if he stays
@@ -188,21 +188,21 @@ export default function RoundtablePage() {
               the most rapidly evolving field in human history — a year of
               hands-on experience during the inflection point is worth more than
               a decade of experience after the curve flattens. This is not a
-              linear trade. The year Jonny would spend finishing his degree is
+              linear trade. The year Ajani would spend finishing his degree is
               not equivalent to a year he could take later. It is a
               fundamentally different year. The opportunity cost compounds.
             </Speaker>
 
             <Speaker name="fadi">
               Let me put it another way. Imagine two parallel universes. In one,
-              Jonny finishes Year 5. Gets the diploma. Starts looking for work.
+              Ajani finishes Year 5. Gets the diploma. Starts looking for work.
               He&apos;s got a credential that says he knows things from 2021
               through 2026, but the world has moved so far past what that
               credential represents that it&apos;s basically a receipt for a
-              meal he already ate. In the other universe, Jonny takes a year.
+              meal he already ate. In the other universe, Ajani takes a year.
               Builds real things. Ships them. Learns the tools that are
               rewriting every industry. Comes back — if he comes back — with a
-              portfolio that speaks louder than any diploma. Which Jonny is
+              portfolio that speaks louder than any diploma. Which Ajani is
               better off in 2028?
             </Speaker>
 
@@ -228,7 +228,7 @@ export default function RoundtablePage() {
             </Speaker>
 
             <Speaker name="fadi">
-              Jonny, I know the fear. I know it because I feel a version of it
+              Ajani, I know the fear. I know it because I feel a version of it
               every time I start something new. There&apos;s this moment where
               the voice says &quot;what if it doesn&apos;t work?&quot; And you
               know what I&apos;ve learned? That voice is never mine. It&apos;s
@@ -246,14 +246,14 @@ export default function RoundtablePage() {
               practical, be normal. But here is what the chorus never tells you
               — normal is just the average of everyone else&apos;s fear. And if
               you live by it, you will arrive at the end of your life having
-              lived a perfectly average one. Is that what Jonny wants? A
+              lived a perfectly average one. Is that what Ajani wants? A
               perfectly average life?
             </Speaker>
 
             <Speaker name="karpathy">
               I want to address the practical objection, because I think
               it&apos;s valid and it deserves a real answer. The concern is:
-              what if Jonny takes a year off and it amounts to nothing? He sits
+              what if Ajani takes a year off and it amounts to nothing? He sits
               at home, plays video games, loses momentum. That is a real risk.
               But the answer is not to stay in school. The answer is to have a
               plan. A structured gap year where he ships one project per month.
@@ -275,7 +275,7 @@ export default function RoundtablePage() {
 
             <Speaker name="jobs">
               A classroom is someone else&apos;s architecture. Someone
-              else&apos;s priorities. Someone else&apos;s timeline. And Jonny
+              else&apos;s priorities. Someone else&apos;s timeline. And Ajani
               has been living inside it for four years. Four years. Does he even
               remember what his own priorities feel like? Does he know what he
               would build if no one was grading it?
@@ -283,19 +283,19 @@ export default function RoundtablePage() {
 
             <Speaker name="karpathy">
               There is one more thing I want to say, and it is perhaps the most
-              important. The skills Jonny would develop in a structured gap year
+              important. The skills Ajani would develop in a structured gap year
               — working with AI tools, shipping products, building in public,
               learning to learn autonomously — these are not niche skills. They
               are the new literacy. In five years, the ability to collaborate
               with AI systems will be as fundamental as the ability to use a
-              computer was in 2000. Jonny has the chance to become fluent now,
+              computer was in 2000. Ajani has the chance to become fluent now,
               while most people are still learning the alphabet. That head start
               is not a nice-to-have. In a winner-take-most economy, it is
               everything.
             </Speaker>
 
             <Speaker name="fadi">
-              So here&apos;s the real question, Jonny. Not &quot;should I finish
+              So here&apos;s the real question, Ajani. Not &quot;should I finish
               the degree.&quot; That&apos;s the wrong frame. The question is:
               what are you becoming while you sit there? Are you becoming the
               person you want to be, or are you becoming the person the system
@@ -315,7 +315,7 @@ export default function RoundtablePage() {
             <Speaker name="karpathy">
               And the beautiful thing about this bet — and it is a bet — is that
               the downside is capped and the upside is unbounded. Worst case:
-              Jonny goes back in twelve months, finishes the degree, and has a
+              Ajani goes back in twelve months, finishes the degree, and has a
               year of real-world experience that makes the final year trivially
               easy. Best case: he never goes back because he doesn&apos;t need
               to. He built something. He became someone. The degree becomes
@@ -323,7 +323,7 @@ export default function RoundtablePage() {
             </Speaker>
 
             <Speaker name="fadi">
-              That&apos;s the move, Jonny. It&apos;s not dropping out. It&apos;s
+              That&apos;s the move, Ajani. It&apos;s not dropping out. It&apos;s
               not giving up. It&apos;s an experiment. Twelve months. One year
               where you answer to nobody but yourself. Where you build the
               things you&apos;ve been thinking about building while you sit in

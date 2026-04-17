@@ -24,7 +24,7 @@ export default function Navigation() {
         href="/"
         className="font-display text-lg text-text hover:text-accent transition-colors"
       >
-        JQ
+        AQ
       </Link>
       <div className="flex gap-6">
         {routes.slice(1).map((route) => (

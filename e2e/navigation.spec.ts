@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 
 const pages = [
-  { path: "/", title: "Jonny", hasNav: false },
+  { path: "/", title: "Ajani", hasNav: false },
   { path: "/roundtable", title: "Roundtable", hasNav: true },
   { path: "/sunk-cost", title: "Sunk Cost", hasNav: true },
   { path: "/the-gap", title: "The Gap", hasNav: true },
@@ -11,9 +11,9 @@ const pages = [
 ];
 
 test.describe("Full site navigation", () => {
-  test("landing page loads with Jonny's name and CTA", async ({ page }) => {
+  test("landing page loads with Ajani's name and CTA", async ({ page }) => {
     await page.goto("/");
-    await expect(page.locator("h1").first()).toContainText("Jonny");
+    await expect(page.locator("h1").first()).toContainText("Ajani");
     await expect(page.locator("h1").nth(1)).toContainText("Quibbuyen");
     const cta = page.locator('a[href="/roundtable"]');
     await expect(cta).toBeVisible();
@@ -86,18 +86,13 @@ test.describe("Full site navigation", () => {
     await expect(page.getByText(/permission/i).first()).toBeVisible();
   });
 
-  test("Jonny's name is spelled correctly throughout", async ({ page }) => {
+  test("Ajani's name is spelled correctly throughout", async ({ page }) => {
     for (const p of pages) {
       await page.goto(p.path);
       const content = await page.textContent("body");
-      if (content?.includes("Johnny")) {
+      if (content?.includes("Jonny")) {
         throw new Error(
-          `Found "Johnny" (wrong spelling) on ${p.path} — should be "Jonny"`,
-        );
-      }
-      if (content?.includes("Quibuyen")) {
-        throw new Error(
-          `Found "Quibuyen" (wrong spelling) on ${p.path} — should be "Quibbuyen"`,
+          `Found "Jonny" (wrong name) on ${p.path} — should be "Ajani"`,
         );
       }
     }

@@ -213,7 +213,7 @@ export default function NowPage() {
                 transition={{ duration: 1.2 }}
                 className="relative mb-8 font-mono text-xs tracking-[0.4em] uppercase text-accent/80"
               >
-                From Adam, to Jonny
+                From Adam, to Ajani
               </motion.p>
 
               <motion.h2

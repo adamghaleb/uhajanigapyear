@@ -22,7 +22,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jonny — A Conversation About Your Next Year",
+  title: "Ajani — A Conversation About Your Next Year",
   description:
     "A conversation between three minds about why the next year matters more than the last four.",
 };
