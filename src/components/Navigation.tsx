@@ -11,6 +11,7 @@ const routes = [
   { href: "/permission", label: "Permission" },
   { href: "/letter", label: "Letter" },
   { href: "/roi", label: "ROI" },
+  { href: "/parents", label: "For Parents" },
   { href: "/now", label: "Now" },
 ];
 
