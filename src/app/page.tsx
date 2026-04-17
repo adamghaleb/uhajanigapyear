@@ -84,7 +84,7 @@ export default function Home() {
             variants={fadeUp}
             className="font-display text-6xl leading-[0.88] tracking-tight text-text sm:text-7xl md:text-8xl lg:text-9xl md:ml-[12vw]"
           >
-            Quibbuyen
+            Quibuyen
           </motion.h1>
         </div>
 

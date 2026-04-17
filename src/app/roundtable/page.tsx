@@ -25,8 +25,8 @@ export default function RoundtablePage() {
                   Roundtable
                 </h1>
                 <p className="font-sans text-lg md:text-xl text-text-secondary max-w-xl leading-relaxed">
-                  Three minds. One question. Whether Ajani Quibbuyen should
-                  spend his next year finishing a degree or doing something that
+                  Three minds. One question. Whether Ajani Quibuyen should spend
+                  his next year finishing a degree or doing something that
                   terrifies him.
                 </p>
               </header>
