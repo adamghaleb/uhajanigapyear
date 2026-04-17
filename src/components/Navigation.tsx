@@ -10,6 +10,7 @@ const routes = [
   { href: "/the-gap", label: "The Gap" },
   { href: "/permission", label: "Permission" },
   { href: "/letter", label: "Letter" },
+  { href: "/roi", label: "ROI" },
   { href: "/now", label: "Now" },
 ];
 
